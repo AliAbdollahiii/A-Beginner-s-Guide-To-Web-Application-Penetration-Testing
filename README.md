@@ -1,5 +1,7 @@
 # A-Beginner-s-Guide-To-Web-Application-Penetration-Testing
 A repository for 'A Beginner's Guide To Web Application Penetration Testing' book
+https://www.wiley.com/en-us/A+Beginner's+Guide+To+Web+Application+Penetration+Testing-p-9781394295609
+https://www.amazon.com/Beginners-Guide-Application-Penetration-Testing/dp/1394295596/
 
 ## Download the OVF File
 You can download the OVF file from: 
